@@ -26,6 +26,7 @@ https://www.hackerrank.com/unaisanchez
 * Service Lane, 20, 13, C++
 * Extra Long Factorials, 20, 13, Java
 * Utopian Tree, 20, 14, Java
+* Manasa and Stones 30, 15, C++
 * Sherlock and Squares, 20, 15, C++
 
 ### 3-Strings

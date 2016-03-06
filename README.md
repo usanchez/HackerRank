@@ -20,6 +20,7 @@ The solutions are sorted the same way they are in the www.hackerrank.com webpage
 
 * Library Fine, 15, 10, Java
 * Angry Professor, 20, 12, Java
+* Service Lane, 20, 13, C++
 * Extra Long Factorials, 20, 13, Java
 * Utopian Tree, 20, 14, Java
 * Sherlock and Squares, 20, 15, C++
